@@ -1,5 +1,9 @@
 # odin-recipes
 
-I'm going to make a basic HTML recipe webite from the knowledge i have acquired so far.
+I'M GOING TO MAKE A BASIC HTML RECIPE WEBSITE FROM THE KNOWLEDGE I HAVE ACQUIRED SO FAR.
 
+Preview: https://prashantatmax.github.io/odin-recipes/
+
+
+To be continued... 
  
