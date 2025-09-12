@@ -1,8 +1,8 @@
-# restaurant-page
+# RECIPES
 
-I'M GOING TO MAKE A BASIC RESTAURANT PAGE FROM THE KNOWLEDGE I HAVE ACQUIRED SO FAR.
+I'M GOING TO MAKE A BASIC RECIPES PAGE FROM THE HTML KNOWLEDGE I HAVE ACQUIRED SO FAR.
 
-Preview: https://prashantatmax.github.io/restaurant-page/
+Preview: https://prashantatmax.github.io/recipes/
 
 
 To be continued... 
